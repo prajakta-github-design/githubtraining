@@ -7,3 +7,7 @@ color
 Viedo File
 Zip file
 Show All the programs
+
+Payment mode
+Online 
+offline 
