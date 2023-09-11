@@ -3,3 +3,7 @@ This is Chat Application
 Emoji
 Type option
 color
+
+Viedo File
+Zip file
+Show All the programs
